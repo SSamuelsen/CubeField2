@@ -1,0 +1,11 @@
+C:\Users\Stephen\source\repos\Cubefield\Cubefield\obj\Debug\Cubefield.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\source\repos\Cubefield\Cubefield\obj\Debug\Cubefield.Properties.Resources.resources
+C:\Users\Stephen\source\repos\Cubefield\Cubefield\obj\Debug\Cubefield.csproj.GenerateResource.Cache
+C:\Users\Stephen\source\repos\Cubefield\Cubefield\obj\Debug\Cubefield.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\source\repos\Cubefield\Cubefield\bin\Debug\Cubefield.exe.config
+C:\Users\Stephen\source\repos\Cubefield\Cubefield\bin\Debug\Cubefield.exe
+C:\Users\Stephen\source\repos\Cubefield\Cubefield\bin\Debug\Cubefield.pdb
+C:\Users\Stephen\source\repos\Cubefield\Cubefield\obj\Debug\Cubefield.exe
+C:\Users\Stephen\source\repos\Cubefield\Cubefield\obj\Debug\Cubefield.pdb
+C:\Users\Stephen\source\repos\Cubefield\Cubefield\obj\Debug\Cubefield.menuScreen.resources
+C:\Users\Stephen\source\repos\Cubefield\Cubefield\obj\Debug\Cubefield.User.resources
